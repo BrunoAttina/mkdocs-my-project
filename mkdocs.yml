@@ -3,4 +3,6 @@ theme:
   name: material
 
 nav: 
-  - Início: "index.md"
+  - Início: 'index.md'
+  - 'DJPDV':
+    - 'DJMonitor': 'djmonitor.md' 
