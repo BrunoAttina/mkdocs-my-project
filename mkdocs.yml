@@ -1,7 +1,11 @@
-site_name: My Doc
+site_name: DJSystem 
 theme:
   name: material
-
+  plugins: 
+    - search
+  features:
+    - search.suggest
+    - search.share
 nav: 
   - Início: 'index.md'
   - 'DJPDV':
