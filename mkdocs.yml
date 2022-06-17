@@ -2,3 +2,5 @@ site_name: My Doc
 theme:
   name: material
 
+nav: 
+  - Início: "index.md"
