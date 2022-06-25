@@ -8,5 +8,10 @@ theme:
     - search.share
 nav: 
   - Início: 'index.md'
+  - DJMonitor:
+    - Manuais:
+      - Cadastro de Produtos:  './djmonitor/manuais/cadastro-de-produto.md'
+    - Solução de Problemas:
+      - Cadastro de produto: './djmonitor/solucao-de-problemas/cadastros/cadastro-de-produto.md'
   - 'DJPDV':
-    - 'DJMonitor': 'djmonitor.md' 
+    - 'DJPDV': './djpdv/djpdv.md'
