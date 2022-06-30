@@ -1,12 +1,22 @@
 site_name: DJSystem 
 theme:
   name: material
+  language: pt-BR
   plugins: 
     - search
   features:
+    - navigation.sections
     - search.suggest
     - search.share
+    - header.autohide
+hide:
+  - footer
 nav: 
   - Início: 'index.md'
-  - 'DJPDV':
-    - 'DJMonitor': 'djmonitor.md' 
+  - DJMonitor:
+    - Manuais:
+      - Cadastro de Produtos:  './djmonitor/manuais/cadastro-de-produto.md'
+    - Solução de Problemas:
+      - Cadastro de produto: './djmonitor/solucao-de-problemas/cadastros/cadastro-de-produto.md'
+  - DJPDV:
+    - Manuais: './djpdv/djpdv.md'
