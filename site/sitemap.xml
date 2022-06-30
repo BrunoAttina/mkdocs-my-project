@@ -2,25 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>None</loc>
-<<<<<<< HEAD
-         <lastmod>2022-06-30</lastmod>
-=======
-         <lastmod>2022-06-23</lastmod>
->>>>>>> 9c700c87316cc38a71750df040cdfee2d10b5842
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>None</loc>
-<<<<<<< HEAD
-         <lastmod>2022-06-30</lastmod>
-=======
-         <lastmod>2022-06-23</lastmod>
->>>>>>> 9c700c87316cc38a71750df040cdfee2d10b5842
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>None</loc>
-<<<<<<< HEAD
          <lastmod>2022-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -32,9 +13,16 @@
     <url>
          <loc>None</loc>
          <lastmod>2022-06-30</lastmod>
-=======
-         <lastmod>2022-06-23</lastmod>
->>>>>>> 9c700c87316cc38a71750df040cdfee2d10b5842
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>None</loc>
+         <lastmod>2022-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>None</loc>
+         <lastmod>2022-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
