@@ -1,5 +1,5 @@
 # Version 1.0 after the instalation and configuration
-# Welcome to MkDocs
+# Welcomee to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
