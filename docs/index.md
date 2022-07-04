@@ -1,6 +1,6 @@
 # Version 1.0 after the instalation and configuration
 # Welcomee to MkDocs
-
+# eae Thales
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
