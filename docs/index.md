@@ -1,9 +1,8 @@
 # Version 1.0 after the instalation and configuration
 # Welcomee to MkDocs
-# eae Thales
+# eae Diogo
 For full documentation visit [mkdocs.org](https://www.mkdocs.org)
 ## Commands
-
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
